@@ -35,5 +35,10 @@ fn -> main[] {
 
 ![Tokenization](images/screen1.png)
 
+Next features:
+ - finish parser 
+ - JIT optimization with LLVM 
+ - add keyword to obfuscate target blockstatement
+
 
 ## ❌ this project is in development
